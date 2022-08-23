@@ -1,4 +1,4 @@
-# Hi, I'm Natouche68 👋
+<img src="https://user-images.githubusercontent.com/76491703/186129128-38d0f5f6-a876-4531-9983-6f99db58b72a.png" alt="Hi, I'm Natouche68" style="width:100%;" />
 
 I'm french *(cocorico ! 🐓)*, I create games as a hobby 🕹, and develop small web apps.  
 I also love rabbits 🐇💖 They are so cute !
