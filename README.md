@@ -22,8 +22,8 @@ I also love rabbits 🐇💖 They are so cute !
 - 🔨 [Blender](https://www.blender.org/)
 - 🎶 [Bosca Ceoil](https://terrycavanagh.itch.io/bosca-ceoil)
 
-## If you have the time to only look one of my repos : [Theme Generator](https://github.com/Natouche68/theme-generator)
+## If you have the time to only look one of my repos : [Archery Scorer](https://github.com/Natouche68/archery-scorer)
 
-This little web app was originally made for a pixel art competition between me and my brother, but you can for sure use it for a small game jam. There are 30 different themes, and the app just pick a random one.
+This is a simple web app that helps you to count points in archery. The app automatically calculate the totals.
 
-It's a very simple Svelte app *(not SvelteKit)*. You can make a pull request to add themes, if you have any ideas.
+I made it using Svelte and Vite and is available as a PWA at [https://archery-scorer.vercel.app](https://archery-scorer.vercel.app).
