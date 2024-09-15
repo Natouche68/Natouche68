@@ -16,5 +16,3 @@ I also love rabbits 🐇💖 They are so cute !
 **Apps I use :**
 - 👨‍💻 VScode
 - 🖌 Figma
-
-![My Reimagined README](https://myreadme.vercel.app/api/embed/Natouche68?panels=userstatistics,toplanguages,commitgraph)
